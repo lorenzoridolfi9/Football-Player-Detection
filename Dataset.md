@@ -4,3 +4,5 @@
 - __Train-set(80%)__: 531 training frames of the model
 - __Validation-set(10%)__: 66 frames of model validation
 - __Test-set(10%)__: 66 frames for testing the model
+
+
