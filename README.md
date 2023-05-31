@@ -11,4 +11,4 @@
 
 The dataset was taken from Roboflow, which also annotated the classes for each frame. You can see the Roboflow universe from [this link](https://universe.roboflow.com/).
 
-If you want, you can download this dataset from [this link](https://drive.google.com/drive/folders/1s9HUL9wM5MFtSfPqBl86zFfpE_Hkxd_U?usp=sharing).
+If you want, you can download this dataset from [this link](https://drive.google.com/drive/folders/1s9HUL9wM5MFtSfPqBl86zFfpE_Hkxd_U?usp=sharing) in my Google Drive.
