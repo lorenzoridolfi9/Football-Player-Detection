@@ -1,4 +1,4 @@
-# Football-Player-Detection
+# Football-Player-Detection ⚽️ 👀 
 
 ## This repository contains project files of Computer Vision. In particular, Yolov8 have been applied for object detection tasks, which can create model that recognize football players and others in the frame.
 
