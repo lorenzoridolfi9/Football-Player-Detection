@@ -29,3 +29,6 @@ Training was done for 50 epochs, although after various tests it is possible to 
 At the end of training, good results are achieved in both the training-set and validation-set, reaching a total __mAP__ of __0.87__ and __0.85__, respectively.
 the most hostile class to detect remains ball with a mAP of __0.50__ in both the training and validation sets.
 The other classes are predicted correctly, with a mAP reaching a value of __0.99__ in both datasets.
+
+## Video test 🎞️
+Finally, the model was tested in an .mp4 video capturing part of a soccer match between two teams.
