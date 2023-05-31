@@ -13,5 +13,14 @@ The dataset was taken from Roboflow, which also annotated the classes for each f
 
 If you want, you can download this dataset from [this link](https://drive.google.com/drive/folders/1s9HUL9wM5MFtSfPqBl86zFfpE_Hkxd_U?usp=sharing) in my Google Drive.
 
+
 ## Process of Analysis
 
+the code is a google colab notebook that has simplified model training using Nvidia Tesla T4 GPUs.
+there are 4 classes present:
+- football players
+- goalkeeper
+- referee
+- ball
+
+Training was done for 50 epochs, although after various tests it is possible to confirm that a number of epochs of 20 is sufficient for satisfactory results.
