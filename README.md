@@ -2,7 +2,7 @@
 
 ## This repository contains project files of Computer Vision. In particular, Yolov8 have been applied for object detection tasks, which can create model that recognize football players and others in the frame.
 
-# Dataset 📊 
+## Dataset 📊 
 
 ### Soccer Players Detection Image is the name of the dataset used in the following project, containing frames of soccer games. it is divided into three parts:
 - __Train-set(80%)__: 531 training frames of the model
@@ -25,7 +25,7 @@ there are 4 classes present:
 
 Training was done for 50 epochs, although after various tests it is possible to confirm that a number of epochs of 20 is sufficient for satisfactory results.
 
-## Results
+## Results 📈
 At the end of training, good results are achieved in both the training-set and validation-set, reaching a total __mAP__ of __0.87__ and __0.85__, respectively.
 the most hostile class to detect remains ball with a mAP of __0.50__ in both the training and validation sets.
 The other classes are predicted correctly, with a mAP reaching a value of __0.99__ in both datasets.
