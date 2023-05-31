@@ -32,3 +32,4 @@ The other classes are predicted correctly, with a mAP reaching a value of __0.99
 
 ## Video test 🎞️
 Finally, the model was tested in an .mp4 video capturing part of a soccer match between two teams.
+Match.mp4 is the video used to test the model. You can download the video with the results from my Google Drive at the following [link](https://drive.google.com/file/d/1KmDdI59DjIFAagPZviY8Y8IxgtWAEPV9/view?usp=drive_link).
