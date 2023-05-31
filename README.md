@@ -14,7 +14,7 @@ The dataset was taken from Roboflow, which also annotated the classes for each f
 If you want, you can download this dataset from [this link](https://drive.google.com/drive/folders/1s9HUL9wM5MFtSfPqBl86zFfpE_Hkxd_U?usp=sharing) in my Google Drive.
 
 
-## Process of Analysis
+## Process of Analysis ⚙️
 
 the code is a google colab notebook that has simplified model training using Nvidia Tesla T4 GPUs.
 there are 4 classes present:
