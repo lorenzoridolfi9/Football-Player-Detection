@@ -27,5 +27,5 @@ Training was done for 50 epochs, although after various tests it is possible to 
 
 ## Results
 At the end of training, good results are achieved in both the training-set and validation-set, reaching a total __mAP__ of __0.87__ and __0.85__, respectively.
-the most hostile class to detect remains ball with a mAP of 0.50 in both the training and validation sets.
+the most hostile class to detect remains ball with a mAP of __0.50__ in both the training and validation sets.
 The other classes are predicted correctly, with a mAP reaching a value of __0.99__ in both datasets.
